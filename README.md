@@ -8,7 +8,7 @@ https://hub.docker.com/repository/docker/sebastianporras0914/bonoparcial/general
 ![test](https://github.com/sebasporras14/AREP-bonoparcial/blob/master/img/dockerhub.png)
 
 ~~~
-docker run -d -p 34007:6000 --name otrodocker sebastianporras0914/bonoparcial:latest
+docker run -d -p 34009:6000 --name otrodocker sebastianporras0914/bonoparcial:latest
 ~~~
 
 
