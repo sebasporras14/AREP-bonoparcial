@@ -5,7 +5,7 @@
 https://hub.docker.com/repository/docker/sebastianporras0914/bonoparcial/general
 ~~~
 
-![test](https://github.com/sebasporras14/AREP-lab04/blob/master/img/dockerhub.png)
+![test](https://github.com/sebasporras14/AREP-bonoparcial/blob/master/img/dockerhub.png)
 
 ~~~
 docker run -d -p 34007:6000 --name otrodocker sebastianporras0914/bonoparcial:latest
@@ -28,6 +28,8 @@ se puede ejecutar con:
 ~~~
 java -cp "./target/classes" edu.escuelaing.arep.app.SparkWebServer
 ~~~
+
+![test](https://github.com/sebasporras14/AREP-bonoparcial/blob/master/img/prueba.png)
 
 ## Construido con 
 * [Maven](https://maven.apache.org/) - Dependency Management
